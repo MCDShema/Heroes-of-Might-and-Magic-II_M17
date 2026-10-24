@@ -1,0 +1,72 @@
+:Base Heroes2.hlp>main
+:Title Heroes Of Might And Magic II
+1 Welcome to Heroes of Might and Magic II
+2 Introduction=INTRO
+2 What's New=NEW
+1 Basic Operations
+2 Mouse=MOUSE
+2 File Selector=FILE
+1 Tutorial
+2 Getting Aquainted=PART1
+2 Troops and Buildings=PART2
+2 Exploration and Discovery=PART3
+2 Combat Basics=PART4
+1 Main Menu
+2 Main Menu=MAINMENU
+2 Standard Game=STANDARD
+2 Campaign Game=CAMPAIGN
+2 Multi-Player Game=MULTI
+1 Adventure Screen
+2 Adventure Window=ADVWIN
+2 World Map=WORLDMAP
+2 Locator Buttons=LOCBUT
+2 Adventure Buttons=ADVBUT
+2 Adventure Options=ADVOPT
+2 Disk Options=DISKOPT
+2 System Options=SYSOPT
+2 Information Box=INFOBOX
+1 Game Play
+2 Hero Movement=HEROMOVE
+2 Movement Cursors=MOVeCURS
+2 Objects and Locations=OBJLOC
+2 Creature Interaction and Diplomacy=DIPLO
+1 Towns
+2 Town Screen=TOWN
+2 Structures=STRUCTURE
+1 Heroes
+2 Hero Window=HEROWIN
+2 Creature Information Window=CRTWIN
+2 Hero Types=TYPES
+2 Movement=MOVE
+2 Secondary Skills=SECSKILL
+2 Skill Advancement=SKILLADV
+2 Hero Trading Screen=HEROTRA
+1 Kingdom Overview
+2 Kingdom Overview Screen=KINGOVER
+1 Combat
+2 Field Combat=FCOM
+2 Siege Combat=SCOM
+2 General's Options=GENOPT
+2 Combat Cursors=COMCURS
+2 Combat Options=COMOPT
+1 Spell System
+2 Spells=SPELLS
+1 Welcome to the Heroes II Map Editor
+2 Introduction=EINTRO
+1 Main Screen
+2 Main Screen=EMAIN
+1 Editor Screen
+2 Editor Window=EWIN
+2 Editor World Map=EMAP
+2 Editor Mode Buttons=EMODE
+2 Editor Buttons=EBUT
+1 Hints and Tips
+2 Hints and Tips=HINTS
+1 Appendix:  Active Objects
+2 Active Objects=ACTIVE
+1 Troubleshooting
+2 Troubleshooting=TROUBLE
+2 Reaching Customer Support=CUST
+1 Credits and Legal Information
+2 Credits=CREDITS
+2 Legal Information=LEGAL

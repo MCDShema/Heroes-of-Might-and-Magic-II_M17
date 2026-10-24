@@ -1,0 +1,375 @@
+Intro Script (Narrator)
+
+Begin with black screen.  
+
+"The troubles all began three years ago,
+with the passing of the old king, Lord Ironfist."  
+
+(Fade into portraits of the two brothers)
+
+"The king left two sons"
+
+Dissolve to close up of Roland, the good son.
+
+"Roland was good, kindly, and honorable,"
+
+Fade to black to both portraits and focus on Archibald, the bad son.
+
+"While Archibald was.not so good."
+
+Fade into peaceful boating scene.  
+
+"Traditionally, the choice of the heir falls to the royal seer."
+
+Cut to white flash.
+Cut to boat sinking, flash of lightning, and dark figure in background 
+slinking off.
+
+".But he died in a tragic boating accident."
+
+Fade to portraits of three other seers.
+
+"His successors' luck was no better."
+
+Cut to steep angle of castle, looking down at the moat.
+
+".with Frederick falling out of a window"
+
+Cut to scene of a dragon blasting a tower.
+
+"Robert slain by a dragon,"
+
+Cut to dining area, where we watch shadow of man on wall.
+
+"And Johann dying of food poisoning."  
+
+Shadow slumps onto the table.
+
+Cut to image of parchment with broken seal.
+
+"Archibald accused Roland of murdering the seers, and issued a
+proclamation against Roland."
+
+Cut to moonlit castle, with dark figure on horseback galloping off.
+
+"Fearing for his life, Roland fled the place for his castle in the
+west."
+
+Cut to secret meeting between Archibald and Royal Seer (silhouette) 
+
+"With Roland gone, Archibald was able to influence the new royal
+seer's decision."
+
+Quick cut to close up of table.  We see dagger plunge into table top
+and vibrate.  Cut back to see Archibald's shadow leaning forward
+menacingly.  Fade back to portrait of Archibald.  The portrait of 
+Roland has been torn up, as with a knife.
+
+
+"The seer chose Archibald, and Archibald crowned himself king the next
+day."
+
+"And so the War for Succession began."
+
+"Choose your Lord." (fade to black)
+
+Roland's monologue:
+
+Scenario 1:  
+
+My faithful vassal.I greet your pledge of loyalty with gratitude and
+relief.  As you know, my wicked brother Archibald has seized my
+father's castle and usurped the throne.  Only the lords nearest the
+castle have been quick to swear allegiance to him, But I fear even
+distant lords may take the oath in the absence of a viable
+alternative.  I am determined to provide that alternative, even if
+means making war on vassals formerly loyal to my father.  Therefore,
+it is with a heavy heart that I must order you to compel the loyalty 
+of the barons nearest my summer palace by force of arms.  Since we
+cannot afford to fail, I have provided you with a sum of gold
+sufficient to the task.  I have also provided you with a magical
+amulet to help coordinate our war efforts.  Wear it always and we
+will be in constant communication.
+
+Scenario 2:
+
+Well done!  Our initial move is an unqualified success. 
+Unfortunately, we have no time to celebrate.  The remainder of the
+local nobility is less than pleased with our recent military
+victories, and have organized their defenses against us.  It is up to
+you to put down their rebellion, but I will need the forces you raised
+in your previous mission to secure that region properly.  Once again,
+I needn't remind you of the seriousness of your mission.  We must win
+in order to secure the taxes necessary to finance the war against
+Archibald.  I am giving you the last of my gold to raise the armies
+you will need to force their surrender.
+
+Scenario 3 or 4 intro:
+
+Congratulations!  A splendid display of military acumen!  With the
+financial backing of this rich farming region, we now have the gold
+it takes to win this war.  Now we need to secure the resources.  Our
+enemy Archibald has begun to move troops into the mountainous mining
+regions of the south known as Carator, and we need to oppose him and
+seize these resources for ourselves.  At the same time, I have
+received a plea for help from Roklin, King of the Dwarfs. Archibald's
+warlocks have attacked  a dwarven village four days ago, slaughtering
+every last man, woman, and child in their quest for dwarven gold. 
+Finding none, they press their attack against the rest of the dwarven
+holdings.  My general, I seek your counsel.  Shall we launch an
+immediate attack on Archibald's forces in Carator, or shall we go to
+the aid of the Dwarfs?  (player makes decision) 
+
+If scenario 4 is entered from scenario 3:
+
+Roklin has sent a messenger to convey his undying gratitude for your
+assistance against the warlocks.  In return for your aid, Roklin has
+promised you the unconditional support of the dwarfs for as long as
+you should serve me.  Already he has sent troops to the Carator
+mountains in anticipation of your move against Archibald.  His forces
+await your command.  
+
+Scenario 5:  
+
+Our seizure of the Carator mines has strengthened our position
+immeasurably.   This strength, in turn, has begun to convince some of
+the more cautious  lords to join our righteous struggle.  Two of 
+these neutrals have finally agreed to join our side.  Their
+strongholds lie in a key valley that must be controlled in order to
+maintain supply lines to Archibald's castle.  Your orders are to raise
+an army from the local population and launch an attack against the
+other two disloyal barons in the valley.  Once this objective has
+been achieved, we will be firmly in control of the continent's
+resources and will at last shift from defense to offense.
+
+Roland's betrayal offer:
+
+General, this is Roland, your rightful king.   I have a proposal for
+you.   Come and fight on my side.  You and I both know that you are
+wrong to work for my evil brother.  It must gnaw at your conscience to
+know that you serve an unjust usurper, and for what reward?  Money? I
+can give you money too.  I offer not just riches, but honor, duty,
+and purpose.  Come join me and serve the cause of justice.  Now, what
+say you?
+
+Scenario 6: (Thank you for not betraying me)
+
+My seer informs me that you have turned down an offer to betray me. 
+Once again, it seems, I am in your debt.  You may rest assured that
+when all this is over your service will not go unrewarded.  I have 
+received a request for aid from the sorceresses of Noraston.  Their
+public declaration for me has made them the object of Archibald's
+wrath.   Archibald has sent a large army to make an example of them. 
+They must be defended if we are to maintain our diplomatic
+credibility.   I am sending Lord Halton to assist you in your efforts
+to rally the Sorceresses.  And once again, thank you.
+
+
+Scenario 6:  (Welcome to the good side)
+
+You've made the right decision!  If you remain true to your service
+with me, you may rest assured that a reward awaits you at the end of
+this war.  I have received a request for aid from the sorceresses'
+guild at Noraston.  Their public declaration for me has made them the
+object of Archibald's wrath.  Archibald has sent a large army to make
+an example of them.  They must be defended if we are to maintain our 
+diplomatic credibility.  I am sending Lord Halton to assist you in
+your efforts to rally the Sorceresses.  And once again, thank you.
+
+Scenario 7 and 8:  
+
+The sorceresses send their regards for your aid, and promise to make
+available their  best practitioners while you remain in my service.
+My good general, I require your counsel.  The time draws near when we
+must prepare and launch an attack against my evil brother.  My
+advisors have given me mixed advice.  Half say that I should send you
+to gather troops for the attack against the lords that remain loyal
+to Archibald, while the other half tell me to send you on a quest
+through the travel gates to find the fabled Ultimate Crown.  What say
+you?  (player makes choice)
+
+Scenario 9:  
+
+I see that you have gathered your force and are poised to attack
+Archibald's defenders.  Due to a desperate counter offensive upon my
+holdings here in the West, I am unable to send you aid in this 
+crucial hour.  I can only hope that the forces you have gathered,
+magical or otherwise, are sufficient to the task.  Lord Haart will
+assist you in your endeavor.Oh, and one more thing-Be sure to capture
+general Corlagon.  If we can deny Archibald his wisdom, Archibald
+will fall more easily.
+
+Scenario 10:  
+
+At last, the war draws to an end.  My brother refuses to surrender in
+the face of your army, and instead sends his undead armies to
+continue their war against his own people.  I must redirect the 
+forces you so cleverly led to victory against general Corlagon to the
+defense of the people.  I have decided to put Lord Haart in charge of
+the defense and you in charge of the attack against my brother's
+weakened arms.  You have free access to the holdings you recently
+confiscated from Archibald's vassals.  Use them wisely and capture my
+brother!  Let us bring this civil war to an end!
+
+Roland's sentence of Archibald:
+
+Brother Archibald, for your crimes against the kingdom and myself, I
+give you a mercy you surely would not have shown me:  I sentence you
+to be turned to stone and locked in the west tower until future 
+generations should take pity upon you and restore you to life.  If
+they ever do.  In any case, you may rest assured you will never lay
+eyes upon the crown again.  
+
+Archibald's monologue:
+
+Scenario 1:
+
+Thank you for choosing to serve me.  You will find that I can be a
+very generous lord to vassals who remain faithful, which is more than
+I can say for the cowardly lords who refuse to take the oath from me. 
+I am King!  Not Roland!  No one can stand before me and refuse to
+serve!  Go!  I have allocated a sum of gold for the purposes of
+making an example of the lords closest to my castle.  Crush them, and
+report back to me by means of the magical amulet I have sent you.
+
+Scenario 2:
+
+Excellent work, my good general.  I think we made an impression, don't
+you?  The lords nearest us will certainly profess loyalty, although
+the more distant ones still waver.  I think, however, we will require
+a second demonstration.  In the frozen wastes to the north of us, the
+Krashaw region, are a number of barbarian tribes that my father did
+not bother to conquer.  These barbarians can be powerful if organized,
+but fortunately they've never managed it.  I am sending you there to
+conquer and unify them.  They will make excellent foot soldiers in
+our efforts to put down my brother's rebellion.
+
+Scenario 3 and 4 intro:
+
+I.have a decision to make.  It has come to my attention that Roland
+has struck an alliance with the king of the Dwarves.  I am certain
+that you recognize the potential danger this alliance presents to
+my-our position.  At the same time I have received a plea for help
+from the Necromancer's guild.  It seems the Wizard's guild has moved
+against their ancient rivals while they believe the royal forces to be
+otherwise occupied.  The question I put to you, my general, is shall
+we shatter the Dwarven alliance, or shall we rescue the Necromancer's
+guild?  (Player chooses)
+
+Scenario 5 intro: 
+
+(If coming from scenario 3)
+Congratulations.  You have simultaneously weakened our enemies the
+wizards and strengthened our friends the Necromancers.  The
+Necromancer's guild sends its undying gratitude, and wishes to inform
+you that one of their best practitioners will always be available to
+serve you for as long as you serve me. And now I must direct  you to
+an urgent military matter involving the Lorendale valley barons.  Two
+have openly declared support for my rebel brother-a crime that I
+cannot tolerate.  You must generate an army from scratch using the
+castles of two of my loyal supporters.  Do not fail me.  
+
+(If coming from scenario 4)
+Well done, general.  The King of the Dwarves was so unhappy with your
+work that he has sent me some hate mail.  It reads:  "To Archibald
+Ironfist, Murderous and Vile Usurper:  We bid you down, down, down to
+burn forever in the fires of eternal damnation!  We pray that your
+foul general, who we name forevermore Dwarf-Bane joins you in this
+fate."  (giggles) How charming!  The King of the Ogres has also sent
+a message on this matter.  It seems that they were pleased with the
+outcome, and have offered to permanently ally with us and send us
+troops.  And now I must direct  you to an urgent military matter 
+involving the Lorendale valley barons.  Two have openly declared
+support for my rebel brother-a crime that I cannot tolerate.  You
+must generate an army from scratch using the castles of two of my
+loyal supporters.  I will view failure with.displeasure.
+
+Archibald's betrayal offer:
+
+General!  This is King Archibald speaking.  Your exploits in the field
+have impressed me, and I have decided to offer you one chance to join
+me and receive a proper reward.  I can offer riches and power that my
+brother can only dream of.  Wealth and power against the certainty of
+the hangman's noose when I inevitably crush my brother's feeble
+forces.  Well, what do you say?
+
+Scenario 6 (thank you for not betraying me)
+
+My pet necromancer overheard your conversation with my brother.  You
+chose wisely.  My brother doesn't stand a prayer of winning this war,
+and your head would have joined his on the chopping block.  But don't
+fear.  If you continue to serve me well I will reward you with an
+Earldom at my brother's summer palace.  Now to business.  The
+peasants that plow my fields are staging a rebellion directed by
+Roland's men.  I am directing you to put this rebellion down and
+capture the leaders of the rebellion.  I am sending lord Corlagon to
+aid you in your fight.
+
+Scenario 6 (Welcome to the winning side)
+
+Welcome to the winning side.  You will see that I am an easy man to
+work for.  I reward success and punish failure.  If you are faithful
+and we win this war, I will grant you an Earldom.  Now to business. 
+The peasants that plow my fields are staging a rebellion directed by
+Roland's men.  I am ordering you to put this rebellion down and
+capture the leaders of the rebellion.  I am sending lord Corlagon to
+aid you in your fight.
+
+Scenario 7 and 8 intro:
+
+Your punishment of the peasants was inspiring.  An exemplary job.  Our
+next move is to conquer the rural lords near Roland's castle.  While
+these lords can be defeated using conventional methods, it is the firm
+opinion of my chief warlock advisor that the aid of the dragon king
+would be an effective weapon against our enemies.  Unfortunately, the
+dragon king will not help us voluntarily.  What is your counsel, my 
+general?  Shall we launch an immediate attack against Roland's
+vassals, or shall we first conquer the dragons?
+
+Scenario 8 (if coming from 7)
+
+Well done.  The dragon king is cooperating with us now, and I have him
+on a short leash. (aha ha ha.) They will supply extra forces for our
+armies and will cooperate if you encounter any in the wild.  Carry on
+with the attack against Roland's vassals.
+
+Scenario 9 and 10 intro:
+
+Your swift elimination of those country lords almost makes it look
+easy.  Perhaps next time you should slow down a little, just to give
+them a sporting chance!  (chuckles)  The time to prepare for the final
+attack against Roland has come.  My advisors are of two minds:  One,
+that we should focus our efforts on gathering the armies necessary to
+defeat Roland, while the other is to search for the Ultimate Artifact.
+Since you are the man in the field, what is your decision?
+
+Scenario 11 intro:
+
+Our finest hour is upon us!  Roland's forces have retreated to the
+province around his castle, and Roland, the fool, cowers in his
+summer palace, awaiting our final strike!  You have gathered your
+forces for this final battle, now go!  Crush the rebellion and bring
+my brother back in chains!
+
+Archibald's final speech:
+
+
+Well, Roland, it seems I've won our little contest.  But don't worry. 
+Not only have I decided to spare your life, but I am appointing you
+monarch of the Western Tower.  You will be the ruler of a mighty
+empire, one who's every crack and crevice you will know. in ten
+minutes.  Perhaps I will come and visit your splendid court, when you
+are not entertaining important rats and spiders.  (laughs, trailing
+away)
+
+
+Voice Descriptions
+
+Narrator:  Old man, historian sounding, kindly, blah, blah, blah.
+
+Roland:  Good guy knight type.  Deep voice.
+
+Archibald:  Evil wizard type.  Think of Tim Curry, or John Hurt 
+in the role.  Cultured, faintly British accent.
+
+

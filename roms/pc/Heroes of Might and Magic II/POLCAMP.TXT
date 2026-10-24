@@ -1,0 +1,278 @@
+          Heroes of Might & Magic II: The Price of Loyalty
+                          Cutscene Text
+
+
+*** The Price of Loyalty ***
+
+Intro:
+------
+Viscount Kraeger - a companion of your youth and commander of the
+empire's northern reaches - has turned against the Emperor in open
+rebellion.  Though he lacks the forces to topple the throne directly,
+he has embarked on a quest for a legendary artifact that will grant him
+powers great enough to destroy us all.
+
+The Emperor has called upon you to march forth with your armies,
+destroy the rebel Kraeger, and claim the artifact for the glory of the
+empire.
+
+After Winning Map 1:
+--------------------
+You have succeeded in suppressing the rebellious northern provinces, and
+now you must pursue the traitor's armies into the Darkscale mountains.
+
+The Emperor's Archmage has obtained some knowledge of the artifact
+Kraeger seeks; it is composed of three separate pieces that must be
+brought together for their full power to be unlocked.
+
+Even now, the traitor is beginning his search for the first piece, deep
+within the mountains.  Uncover it before it falls into his hands; without
+it we will never be able to discover the location of the other pieces.
+
+After Winning Map 2:
+--------------------
+With your successful retrieval of the artifact, Kraeger has fled to the
+west, towards Glaive Island, where the next piece of the artifact is said
+to be hidden.
+
+Unfortunately, Kraeger has discovered a secret way through the Darkscale
+Mountains, and is well ahead of you.  You face a choice of perils...
+
+You may wish to follow Kraeger along the hidden path known as the Abyss,
+but you will face mortal perils.  Nonetheless, this is the faster route.
+
+Your other choice is to circle the mountains, through the forests to the
+south and west.  These are elven lands, however, and there are those
+within who might take great affront should your forces disturb their
+shadowed glens.
+
+After Winning Map 3:
+--------------------
+As you have proven responsible for the removal of a hated rival, the
+Elven lord Ilthanis has agreed to support the Empire in its hunt for
+Kraeger.  He has promised to provide you with a tithe of wood, and any
+elven forces you encounter will aid you in your quest.
+
+However, there is also less fortunate news.  The traitor has already
+unearthed the second piece of the artifact upon Glaive Isle.  Turn your
+attention to the north, where the last piece lies deep within the snowy
+wastes.
+
+A great barbarian kingdom straddles the passes to the northlands, and
+you must subdue these fierce raiders before your expedition to the far
+north may proceed.
+
+After Winning Map 4 or 5:
+-------------------------
+Alas, Kraeger has already retrieved the second piece from Glaive Isle,
+and all that remains is to race for the northern wastes to seek out the
+last piece.  Whoever regains this piece will have an advantage when it
+comes time to bring the traitor to ground.
+
+Curiously, our scouts have returned with strange tales of verdant green
+lands in midst of the snowy wastes. Whether these tales are true or
+merely the ramblings of snow blinded travelers, none can tell.
+
+After Winning Map 6:
+--------------------
+The Emperor's Archmage has made a crucial discovery, plucked from the
+thoughts of Kraeger himself as he fled the battle for the third artifact
+piece. Kraeger is not alone in his treachery!
+
+A cabal of Necromancers within the heart of the Empire itself has guided
+him towards the artifacts they sought.
+
+Now we may strike at the source of this chaos which threatens the empire.
+Gather the Emperor's armies and destroy the Cabal and with it the traitor
+who has evaded you these many months.
+
+After Winning Map 7:
+--------------------
+It appears that Kraeger fell under the sway of the Necromancers by means
+of magic.  With the power of the Helm you have freed his mind and put an
+end to his rebellion.  With this knowledge in mind, the Emperor may show
+leniency for his rebellion when he faces the justice of the Empire.
+
+But regardless of such matters, you have reclaimed the final piece of the
+artifact and now it's full power is at the command of the Empire.  Take
+up its might and wield it against our true foes!  Destroy the
+Necromancers and their nest of treachery and deceit!
+
+You've Won!
+-----------
+The might of our vast empire is maintained throughout the ages, with the
+great wisdom of the Emperor to guide us and the strength of our noble
+heroes to protect us.
+
+You claim that Viscount Kraeger - a former friend and compatriot of
+yours - did not act of his own will in this uprising, but was held under
+the magical influence of the necromancers.  Be that as it may, he has
+been seen by the people of our lands to raise arms against the Empire.
+Such an act cannot go unpunished.
+
+You may rejoice however, for the Emperor has chosen to grant you all
+lands and titles that Kraeger possessed, in return for your great service
+and obedience. 
+
+Such is the price of loyalty.
+
+
+*** Descendants ***
+
+Intro:
+------
+Many generations ago, before this kingdom came to power, the land was
+the battleground for a handful of warring tribes.  The Barbarian
+Jarkonas, first of a long line of rulers, had a vision: To conquer
+and unify the tribes...
+
+After Winning Map 1:
+--------------------
+Several generations passed, and the kingdom which Jarkonas had
+established grew and prospered freely.  But then, in the east, the
+kingdom of Harondale grew to power, and a bitter rivalry over the borders
+began.
+
+After Winning Map 2:
+--------------------
+King Jarkonas III, grandson of Ethania, lay on his deathbed and pondered
+the fate of his weakening kingdom; the constant struggle with its enemies
+had taken a heavy toll. He knew that if the kingdom were to again
+prosper, it would need aid from  distant relatives. The final choice he
+had to make was this: send help to recruit Crazy Uncle Ivan the warmonger
+and his barbarian clan, or send a search party out to look for the
+family's wayward son Joseph, a wizard of some repute.
+
+After Winning Maps 3 & 4:
+-------------------------
+In the 200th year since the unification of the tribes, during the dark
+times of the family, a scout came frantically riding from the southern
+border towns.  He reported that a barbarian horde had taken several
+outposts and burned down another.  Geldria, the queen at the time,
+sent an army south to reclaim the lost towns and secure the border.
+
+After Winning Map 5:
+--------------------
+As war and unrest threatened to topple the kingdom of Jarkonas, a blow
+came which might have crushed it. The castle of Ivory Gates fell due to
+the treacherous actions of a spy from Harondale. The ruler at the time,
+Ethania Geldria II (the second), had to decide whether it was better to
+send for help from the elves, or attempt to retake the fallen castle
+directly.
+
+After Winning Maps 6 & 7:
+-------------------------
+Now, I suppose, it is up to me, Jarkonas VI, to finish what my ancestors
+started. Our family has grown stronger since Ivory Gates was recaptured
+many years ago, and Harondale's luck has turned against them in battles
+on other fronts. In the morning, I will launch an offensive against
+Harondale's main territory. One way or the other, this long feud will
+soon be at an end.
+
+You've Won!:
+------------
+Harondale's kingdom has fallen under our control, their rulers have all
+fled to distant lands or been slain, and I am headed back to my castle
+to live out my final years in peace.
+
+
+*** The Voyage Home ***
+
+Intro:
+------
+On my journey to the outer isles for Lord Alberon, a sudden and ferocious
+storm wrecked my ship. I and a small contingent of the crew struggled to
+the shore of an uncharted island. Now, I need to construct a ship large
+enough to make the voyage back home to the mainland.
+
+After Winning Map 1:
+--------------------
+Our journey is well underway, and we should be home in a fortnight. By
+pure luck we have discovered the notorious pirate isles. These pirates
+have been raiding the coast of Lord Alberon's kingdom for years, and it
+is my duty to find and eliminate their leader before continuing my
+journey.
+
+After Winning Map 2:
+--------------------
+I arrived home last night, under the cover of a heavy fog. My cousin met
+me on the beach. He explained that a civil war had broken out while I was
+away. To my dismay, the leader of the rebellion is my sister the
+Necromancer, with whom my family ties are very strong. Now I must decide:
+should I remain loyal to my Lord Alberon who has treated me honorably
+in my years of service, or acknowledge the more ancient bond of blood and
+fight for my sister's cause.
+
+You've Won! (Map 3):
+--------------------
+I made a choice to remain loyal to Lord Alberon, and now my sister is
+being carted away in chains to be held in prison till death finds her. I
+have made peace with my decisions, but I sorely wish this conflict had
+not led to bloodshed.
+
+You've Won! (Map 4):
+--------------------
+The Castle of my former Lord Alberon lies burning in the distance, and
+even though my sister and I have triumphed in our cause, I will never
+forget the betrayed look in my liege's eyes when he saw me riding against
+him.
+
+
+*** The Wizard's Isle ***
+
+Intro:
+------
+Tales have recently been told of a mist wreathed archipelago that has
+sprung up in the western seas where nothing but water lay before.
+
+They are the legendary Shrouded Isles, wherein lies the Fount of
+Wizardry.  It is said that every thousand years they rise forth from the
+ocean, and that whomsoever claims this power will reign ascendant for the
+next thousand...
+
+Even now your rivals are surely aware of the archipelago's emergence, and
+are laying plans for it's conquest.
+
+After Winning Map 1:
+--------------------
+Through the inhabitants of these isles, you have learned the location of
+an ancient library.  Within this library, an almost endless collection of
+mystic knowledge might be gleaned.
+
+Most importantly - within its dusty tomes must surely be information
+concerning the Fount of Wizardry.  With this information you will be able
+to locate and bind the Fount to your will.  Go forth and capture the city
+of Chronos, wherein you will find the library you seek.
+
+After Winning Map 2:
+--------------------
+With the Library now yours to study, the location of the Fount of
+Wizardry has been revealed to you.  Unfortunately, it has already been
+claimed by one of your rivals!  Without the knowledge in the library of
+Chronos, it may be some time before they can control its power, but once
+they do they will be unstoppable.
+
+However, the existence of an artifact of great potency has also been
+revealed by the library.  This artifact has the power to completely
+nullify all magic in its presence, a most effective weapon against a
+rival Archmage...
+
+After Winning Map 3:
+--------------------
+The Orb of Negation is now yours, and with it's power your victory is all
+but certain.
+
+But move quickly, for time is running out and if the power of the Fount
+of Wizardry is bound by one of your rivals not even the Orb will protect
+you from their power.
+
+You've Won!:
+------------
+With all your rivals defeated and scattered before you, the Fount of
+Wizardry is yours.
+
+Now you will control the power to shape a new age of magic and unlock the
+secrets of time itself.
+
+Wield this power wisely and you shall become the greatest wizard of this
+or any other world.

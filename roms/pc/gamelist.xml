@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gameList>
+  <game id="1" source="manual">
+    <path>./Heroes of Might and Magic II/dos.bat</path>
+    <name>Heroes of Might and Magic II (DOS Класика)</name>
+    <desc>Оригінальна класична DOS-версія 1996 року з віртуальним CD-приводом (homm2.iso), одиночними кампаніями, повною оркестровою музикою, звуком Sound Blaster 16 та емулятором DOSBox SVN. Керування стіком та кнопками M17 налаштовано.</desc>
+    <image>./images/Heroes of Might and Magic II.png</image>
+    <releasedate>19960101T000000</releasedate>
+    <developer>New World Computing</developer>
+    <publisher>The 3DO Company</publisher>
+    <genre>Turn-based Strategy / RPG</genre>
+    <players>1-4</players>
+  </game>
+</gameList>

@@ -1,0 +1,4 @@
+hand_mouse_x "stick_0_axis_0_0" "stick_0_axis_0_1"
+hand_mouse_y "stick_0_axis_1_0" "stick_0_axis_1_1"
+hand_mouse_b1 "stick_0_button_0"
+hand_mouse_b2 "stick_0_button_1"
